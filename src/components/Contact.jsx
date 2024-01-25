@@ -99,7 +99,7 @@ const Contact = () => {
             />
           </label>
           <label htmlFor="" className="flex flex-col">
-            <span className="text-white font-medium mb-4">Your Message</span>
+            <span className="text-white font-medium mb-4">Your Message.</span>
             <textarea
               rows="7"
               name="message"
